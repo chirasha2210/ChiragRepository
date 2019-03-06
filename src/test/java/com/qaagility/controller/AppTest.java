@@ -10,7 +10,7 @@ public class AppTest {
 Calculator myCalc = new Calculator();
 
       public void testSlow() {
-        System.out.println("sloww");
+        System.out.println("slWow");
       }
 
       public void testSlower() {
