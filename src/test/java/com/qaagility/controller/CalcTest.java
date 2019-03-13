@@ -31,7 +31,7 @@ public class CalcTest {
 	@Test
 public void testCal()
 {
-     Calcmul testcalmul =new Calmul();
+     Calcmul testcalmul=new Calcmul();
 Calculator testcalAdd=new Calculator();
 
      assertEquals(testcalmul.mul(),18);
